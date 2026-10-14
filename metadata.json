@@ -1,0 +1,6 @@
+{
+  "name": "AeroOptima AI",
+  "description": "Intelligent Air Operations & Resource Optimisation Simulator for SIH26250",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
